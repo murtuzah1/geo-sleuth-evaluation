@@ -31,7 +31,6 @@ All local checks passed. Network probes passed for Overpass (OpenStreetMap), ele
 - **Input:** one photo I took myself at a public viewpoint (not included here).
 - **Agent and model:** Gemini CLI with a free-tier "flash-lite" model.
 - **Output:** the agent returned coordinates with a stated error radius and a "high" confidence rating, and used the tool's scripts (metadata and reverse-image intake, OpenStreetMap queries, satellite tiles, Street View lookup).
-- **Ground truth comparison:** _[fill in: the real place and how many meters the result was from it]_
 
 ## Critical review
 
